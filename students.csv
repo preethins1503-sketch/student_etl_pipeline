@@ -1,0 +1,8 @@
+student_id,name,department,marks,city
+101,Arun,Data Science,85,Bangalore
+102,Priya,Data Science,92,Chennai
+103,Ravi,Computer Science,78,Hosur
+104,Meena,Data Science,,Bangalore
+105,Karthik,Computer Science,88,Chennai
+106,Divya,Data Science,95,Hosur
+107,Arun,Data Science,85,Bangalore
